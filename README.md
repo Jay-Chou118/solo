@@ -27,15 +27,14 @@
 
 </div>
 
-## 🎬 video demo
-
-<div align="center">
-**🎥 [观看完整演示视频（Bilibili 1分钟）](https://www.bilibili.com/video/BV1943K6MEGw)** - 包含详细功能讲解
-**🌍 [Watch Full Demo (YouTube 1min)](https://www.youtube.com/watch?v=Dnzy4XpQpiY)** - English subtitles available
-
-</div>
-
 ---
+
+## 🎬 Video Demo
+
+| 平台 | 链接 | 时长 | 说明 |
+| --- | --- | --- | --- |
+| 🎬 **Bilibili** | [观看教程](https://www.bilibili.com/video/BVXXXX) | 5:30 | 中文讲解，包含安装和使用 |
+| 🌏 **YouTube** | [Watch Tutorial](https://www.youtube.com/watch?v=XXXX) | 5:30 | English subtitles |
 
 ## Why Solo
 
