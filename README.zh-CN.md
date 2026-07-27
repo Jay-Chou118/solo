@@ -33,8 +33,8 @@
 
 | 平台 | 链接 | 时长 | 说明 |
 | --- | --- | --- | --- |
-| 🎬 **Bilibili** | [观看教程](https://www.bilibili.com/video/BVXXXX) | 5:30 | 中文讲解，包含安装和使用 |
-| 🌏 **YouTube** | [Watch Tutorial](https://www.youtube.com/watch?v=XXXX) | 5:30 | English subtitles |
+| 🎬 **Bilibili** | [观看教程](https://www.bilibili.com/video/BV1943K6MEGw) | 5:30 | 中文讲解，包含安装和使用 |
+| 🌏 **YouTube** | [Watch Tutorial](https://www.youtube.com/watch?v=Dnzy4XpQpiY) | 5:30 | English subtitles |
 
 ## 为什么选择 Solo
 
